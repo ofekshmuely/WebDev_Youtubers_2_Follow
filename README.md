@@ -1,10 +1,10 @@
 # WebDev Youtubers 2 Follow
 
 רשימת ערוצי יוטיוב מומלצים למפתחי ווב מהארץ ומחו"ל
+* [Ofek Shmuely](https://www.youtube.com/channel/UCwNaFzCI9CpR0SObQe-dILg/videos) - ערוץ היוטיוב שלי שאני אשתדל בקרוב להתחיל להעלות תוכן
 
 ## ערוצים בעברית
 
-* [Ofek Shmuely](https://www.youtube.com/channel/UCwNaFzCI9CpR0SObQe-dILg/videos) - ערוץ היוטיוב שלי שאני אשתדל בקרוב להתחיל להעלות תוכן
 * [CSS Masters Israel](https://www.youtube.com/channel/UCTJv3MtKko-T3gDGn5XFyPA/videos) - הערוץ של אלעד שכטר התותח
 * [Full Stack Developers Israel](https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A/videos) - הרצאות ממיטאפים בישראל
 * [GoCode - Web Developers Mentoring](https://www.youtube.com/channel/UCIld0affiSkmp-KkEit3S_w/videos) - ערוץ היוטיוב של אלעד כהן, מעביר קורס פול סטאק מלא חינמי ביוטיוב
