@@ -25,7 +25,7 @@
 ## ערוצים באנגלית
 
 * [/dev/null](https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw/videos) - מתעסק בעיקר באבטחה ואינטרנט אוף טינגס
-* [/dev/null](https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw/videos) - The one and only maximilian schwarzmüller :)
+* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos) - The one and only maximilian schwarzmüller :)
 * [Algos Explained](https://www.youtube.com/channel/UCwsRKWt23kxOL1Fb73i0uUg/videos) - בחור חביב שמביא הסברים מעולים לאתגרים מאתרים כמו קוד וורס
 * [Andrew Mead](https://www.youtube.com/channel/UCScXYvmDD7hyFVX6X5ZwE_Q/videos) - מרצה ביודימי הוא לא מעלה הרבה יחסית
 * [Ben McNulty](https://www.youtube.com/channel/UC983OH5xI8R6Oy6HX2kBYTg/videos) - מפתח שעושה דברים מגניבים עם ווב-אקס-אר
