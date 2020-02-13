@@ -1,5 +1,4 @@
 ![Yotubers 2 Follow](https://raw.githubusercontent.com/ofekshmuely/WebDev_Youtubers_2_Follow/master/youtube.png)
-
 # WebDev Youtubers 2 Follow
 
 רשימת ערוצי יוטיוב מומלצים למפתחי ווב מהארץ ומחו"ל
