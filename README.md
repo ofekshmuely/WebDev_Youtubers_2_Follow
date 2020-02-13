@@ -1,4 +1,4 @@
-![Yotubers 2 Follow](https://ofek.xyz/youtube.png)
+![Yotubers 2 Follow](https://ofek.xyz/youtube1.png)
 # WebDev Youtubers 2 Follow
 
 רשימת ערוצי יוטיוב מומלצים למפתחי ווב מהארץ ומחו"ל
