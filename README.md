@@ -1,4 +1,4 @@
-![Yotubers 2 Follow](https://w0.pngwave.com/png/925/463/youtube-kids-video-television-show-youtube-copyright-issues-youtube-logo-png-clip-art.png)
+![Yotubers 2 Follow](https://ofek.xyz/youtube.png)
 
 # WebDev Youtubers 2 Follow
 
