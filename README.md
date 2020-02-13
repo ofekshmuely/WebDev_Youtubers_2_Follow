@@ -1,4 +1,4 @@
-![Yotubers 2 Follow](https://ofek.xyz/youtube.png)
+![Yotubers 2 Follow](https://raw.githubusercontent.com/ofekshmuely/WebDev_Youtubers_2_Follow/master/youtube.png)
 
 # WebDev Youtubers 2 Follow
 
