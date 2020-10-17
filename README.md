@@ -20,7 +20,7 @@
 * [Ynon Perek](youtube.com/channel/UCMgmeSgiQrVkYdJwl2aNe7Q/videos) - ערוץ היוטיוב של ינון פרק, מפתח ישראלי ובעל חברת טוקוד
 * [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA/videos) -
 * [Z-Coding](https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ/videos) - ערוץ יוטיוב חדש שכרגע מתמקד בפיתוח משחק הסנייק
-
+* [Nir Kaufman](https://www.youtube.com/user/nirkaufman101/videos) - Afterhours Meetups VOD
 
 
 ## ערוצים באנגלית
@@ -35,7 +35,7 @@
 * [Chatbot Summit & Voice Summit](https://www.youtube.com/channel/UCipaXCYFu2eqeMjimBdIaPQ/videos) - הרצאות על צא'ט בוטס
 * [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) - ריאקט, ריאקט נייטיב ו-וובפאק
 * [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g/videos) - בחור אוסטרלי חביב שמעביר המון מדריכים על דום 
-* [Derek Banas ](https://www.youtube.com/user/derekbanas/videos) - קורסים מלאים על פיתוח ווב ותכונה, המון על סי-שארפ
+* [Derek Banas ](https://www.youtube.com/user/derekbanas/) - קורסים מלאים על פיתוח ווב ותכונה, המון על סי-שארפ
 * [DesignCourse ](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow/videos) - Everything about ux/ui
 * [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/videos) - בחור מגרמניה שמעביר מדריכים על פיתוח ווב בצורה משעשעת
 * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ/videos) - ערוץ שלא פעיל אבל מומלץ לעקוב
@@ -67,6 +67,9 @@
 * [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg/videos) - מדריכי Vue / Vanilla JS
 * [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA/videos) - CSS / JS / React
 * [Ihatetomatoes](https://www.youtube.com/channel/UC7O6CntQoAI-wYyJxYiqNUg) - Front End
+* [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
+* [devmentorlive](https://www.youtube.com/channel/UCx4a8EMmXx-6RuJlyAKASoQ)
+* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - CSS WIZARD
 
 
 
