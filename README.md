@@ -1,4 +1,4 @@
-![Yotubers 2 Follow](https://ofek.xyz/youtube1.png)
+ ![Yotubers 2 Follow](https://ofek.xyz/youtube1.png)
 # WebDev Youtubers 2 Follow
 
 רשימת ערוצי יוטיוב מומלצים למפתחי ווב מהארץ ומחו"ל
@@ -66,6 +66,7 @@
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/videos) - ברד טרוויסי אחד השמות המוכרים ביוטיוב
 * [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg/videos) - מדריכי Vue / Vanilla JS
 * [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA/videos) - CSS / JS / React
+* [Ihatetomatoes](https://www.youtube.com/channel/UC7O6CntQoAI-wYyJxYiqNUg) - Front End
 
 
 
